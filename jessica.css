@@ -1,0 +1,27 @@
+p{
+    color: rgb(140, 0, 255);
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif; color: rgb(187, 171, 31);
+}
+h1{
+    font-size: x-large; color: rgba(173, 90, 31, 0.89);
+}
+ul{
+    font-weight: bold;
+}
+.bright{
+    color: purple; font-family: fantasy;
+}
+.size{
+    font-size: 15px;
+}
+.smooth{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+h3{
+    font-weight: lighter; color: seagreen;
+}
+ol{
+    font-weight: bold; color: slategrey;
+}
